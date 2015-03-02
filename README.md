@@ -1,13 +1,9 @@
 # Orga
-1. Gesamtablauf planen
-
 1. planing the whole process / structure of the meetup
 
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
-
-2. Sponsoren finden
 
 2. find sponsors (does anyone have tips/ideas?)
 
@@ -15,20 +11,6 @@
 -------------------------------------------------------------
 -------------------------------------------------------------
 
-3. Kommunikationmittel:  >> Logo überarbeiten
-    a. Slides für das gesamte MeetUp (Ablauf, Vorstellung der Orga und Speaker,etc.)
-    b. MeetUp Seite (Info und Anmeldung)
-    c. Twitter
-    d. Flickr / Instagramm oder whatever
-    e. Webcam Livestream über Hangouts
-    f. Codepen Teamaccount mit Gastpens und Gastbeiträgen im Blog (Codepen Teamaccounts könnten nen geiles Feature sein)
-    g. Flyer und Poster mit Ablauf, Sponsoren, link zu github / website / ...
-    h. Sticker (für Tims Computer)
-    i. Buttons
-    
-    j. Namebatches mit Twitter und ggf. Avatar, Name des ersten Haustiers
-    
-    
 3. communication and design:  >> create a logo that works in a square (avatar)
     a. Slides to guide through the whole MeetUp process (timeline, introduction of sponsors, speaker, organizer, etc.)
     b. MeetUp Website (containing information about old and upcoming MeetUps, provide the possibility to subscribe to a MeetUp)
@@ -46,10 +28,6 @@
 -------------------------------------------------------------
 -------------------------------------------------------------
 
-4. Eigenes (geiles) An-und Abmeldesystem
-    a. Persönliche Daten erfragen (Name, Mail)
-    b. ...
-    
 4. Custom build (awesome) system to sign on/of from a MeetUp
     a. get required personal data (name, mail)
     b. ...
@@ -58,16 +36,6 @@
 -------------------------------------------------------------
 -------------------------------------------------------------
 
-5. Moderation: 
-    a. Empfang
-    b. Begrüßung / Intro
-    c. Vorstellung der Sponsoren, der Organisatoren (die Avatare zur Kommunikation nutzen)
-    d. Info zum Ablauf
-    e. Code of Conduct (wie auf der Nightly Build) > Verhaltensregeln
-    f. Intro zu den einzelnen Speakern (im Vorfeld Hintergrundinfos einholen)
-    g. Eigenwerbung, Einladung zu kommenden oder anderen MeetUps
-    h. Fazit und Verabschiedung
-    
 5. Moderation: 
     a. welcome (when the guests come in)
     b. Intro (in front of the crowd)
@@ -82,13 +50,6 @@
 -------------------------------------------------------------
 -------------------------------------------------------------
 
-6. Sprechen: Redner (Orga und Speaker) während des Sprechens unterstützen
-    a. Handzeichen (Lauter = Daumen hoch, Leiser = Daumen runter, Langsamer = Stop Zeichen)
-    b. hilfreiche Unterbrechungen (z.B. Fragen, Zusatzinformationen)
-    c. Speaker erhalten im Vorfeld ein Briefing (mündlich und schriftlich) zu Zeichen und Ablauf
-    d. Druck nehmen = geilere Talks
-    e. Organisatoren != Speaker
-    
 6. talks and moderation: support the ones who speak in front of the crowd (organizers and speakers)
     a. hand signals (louder = thumb up, low voice = thumb down, slower = stop sign)
     b. helpful interruptions if a speaker runs out of concentration (eg. questions, additional information)
@@ -100,12 +61,6 @@
 -------------------------------------------------------------
 -------------------------------------------------------------
 
-7. Event / Extras
-    a. Fotobox
-    b. Gewinnspiel für Codepen Zeugs, Hauptgewinn ProAccount
-    c. ProAccount für Speaker
-    d. T-shirts für die Speaker (Spreadshirt oder selber machen)
-    
 7. event / extras
     a. photobox (kurze erklärung von gregor dazu)
     b. raffle for Codepen swag, first price ProAccount *
@@ -116,12 +71,6 @@
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
-
-8. Dokumentation
-    a. eigene Website (zusätzlich wenn möglich nen Codepen Teamaccount)
-    b. Fotografen anheuern
-    c. Talks filmen (Kamera, Stativ, Festplatte)
-    d. Zusätzlicher Content auf Codepen der die MeetUps dokumentiert
     
 8. documentation / archive
     a. own website (additional to that a Codepen teamaccount featuring pens and blogpost from our speakers)
